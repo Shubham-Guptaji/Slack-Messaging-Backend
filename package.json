@@ -15,6 +15,7 @@
   "description": "",
   "dependencies": {
     "@bull-board/express": "^5.17.0",
+    "@bull-board/ui": "^5.23.0",
     "bcrypt": "^5.1.1",
     "bull": "^4.16.4",
     "dotenv": "^16.4.5",
